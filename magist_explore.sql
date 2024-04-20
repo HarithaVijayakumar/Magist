@@ -12,7 +12,7 @@ select * from geo;
 select * from orders;
 select * from order_items;
 select * from order_reviews where review_score = 1;
-select * from order_payments;
+
 
 /*How many orders are there in the dataset?*/
 select count(order_id) from orders;
