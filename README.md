@@ -13,7 +13,7 @@ After deep data analyzation it is clear that _Magist_ is **not an ideal** compan
 
 ### **Presention Link**
 
-[Neon Pink Bright Blue White Modular Abstract Business Case Study and Report Business Presentation.pdf](https://github.com/HarithaVijayakumar/Magist/files/15048454/Neon.Pink.Bright.Blue.White.Modular.Abstract.Business.Case.Study.and.Report.Business.Presentation.pdf)
+(https://www.canva.com/design/DAGCg3qeMzs/l83E4VnezVAdQkB6xSDR0w/edit)
 
 ![Sheet 1](https://github.com/HarithaVijayakumar/Magist/assets/167623249/27d61bf9-6749-404d-a4f9-fcdae2f79d5b)
 
