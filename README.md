@@ -11,7 +11,7 @@ Canvas
 
 After deep data analyzation it is clear that _Magist_ is **not an ideal** company to team up with _Eniac_ because of poor delivery system and lack of tech sellers. Since Eniac is a 100% tech company Magist clearly indicates that non tech sellers earns a good profitable income than tech sellers, this also questions if revenue wise this would be a good deal. Due to poor delivery system Magist will disappoint Eniac's customers because good customer experience is our emblem.
 
-![alt text]([http://url/to/img.png](https://public.tableau.com/app/profile/haritha.vijayakumar4718/viz/seller_17132711692490/Sheet1?publish=yes))
+![alt text]((https://www.canva.com/design/DAGCg3qeMzs/l83E4VnezVAdQkB6xSDR0w/edit))
 
 **Challenges overcame**-
 
